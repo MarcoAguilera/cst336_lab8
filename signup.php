@@ -6,6 +6,7 @@
         <title>AJAX: Sign Up Page</title>
 
         <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <script>
         
@@ -141,7 +142,7 @@
 
     </head>
 
-    <body>
+    <body class="container">
     
        <h1> Sign Up Form </h1>
     
