@@ -1,7 +1,7 @@
 <?php   
     include './dbConnection.php';
     
-    $conn = connectDB("lab8");
+    $conn = connectDB("heroku_03f28d949defc53");
     
     $username = $_GET['username'];
     $sql = "SELECT *FROM lab8_user WHERE username = '$username' ";
